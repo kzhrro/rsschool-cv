@@ -1,2 +1,2 @@
 # rsschool-cv
-A flawless CV that shows my primary skills
+A flawless [CV](https://kzhrro.github.io/rsschool-cv/cv) that shows my primary skills
