@@ -1,5 +1,7 @@
 body {
-  background-color: lightblue;
+  background: cadetblue;
+    display: flex;
+    justify-content: center;
 }
 
 h3 {
@@ -10,6 +12,10 @@ h3 {
 h2 {
   color: green;
   margin-left: 20px;
+}
+
+.wrapper {
+  width: 70%;
 }
 Footer
 © 2022 GitHub, Inc.
