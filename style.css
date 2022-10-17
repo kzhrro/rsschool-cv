@@ -1,0 +1,21 @@
+body {
+  background: cadetblue;
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+  color: navy;
+  margin-left: 20px;
+}
+
+h2 {
+  color: green;
+  margin-left: 20px;
+}
+
+.wrapper {
+  width: 70%;
+}
+Footer
+© 2022 GitHub, Inc.
